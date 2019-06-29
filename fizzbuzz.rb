@@ -4,5 +4,8 @@ def fizzbuzz(x)
   if x/3 = Integer
     puts "Fizz"
   else 
-    puts 
+    puts "nil"
+  end
+end
+
   
