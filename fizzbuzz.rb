@@ -3,6 +3,7 @@
 def fizzbuzz(x)
   if x % 3 == Integer
     puts "Fizz"
+  end
 end 
 
   
